@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MaheshKhadayat/Leet_code/tree/master/0002-add-two-numbers) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
 ## Dynamic Programming
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MaheshKhadayat/Leet_code/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/MaheshKhadayat/Leet_code/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
