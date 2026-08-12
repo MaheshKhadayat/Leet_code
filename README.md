@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MaheshKhadayat/Leet_code/tree/master/0057-insert-interval) |
+| [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/MaheshKhadayat/Leet_code/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
 ## Binary Search
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
+| [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 ## Linked List
 |  |
 | ------- |
@@ -41,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaheshKhadayat/Leet_code/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
