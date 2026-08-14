@@ -17,7 +17,7 @@ class Solution(object):
                 st+=1
             maxlen = max(i-st+1,maxlen)
             
-        return maxlen if maxlen!=0 else len(s)
+        return maxlen
 
 
 
