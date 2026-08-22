@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MaheshKhadayat/Leet_code/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/MaheshKhadayat/Leet_code/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MaheshKhadayat/Leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -60,10 +61,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MaheshKhadayat/Leet_code/tree/master/0013-roman-to-integer) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MaheshKhadayat/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/MaheshKhadayat/Leet_code/tree/master/0013-roman-to-integer) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MaheshKhadayat/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
