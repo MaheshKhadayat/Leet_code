@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MaheshKhadayat/Leet_code/tree/master/0057-insert-interval) |
+| [0219-contains-duplicate-ii](https://github.com/MaheshKhadayat/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MaheshKhadayat/Leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/MaheshKhadayat/Leet_code/tree/master/0704-binary-search) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MaheshKhadayat/Leet_code/tree/master/0013-roman-to-integer) |
+| [0219-contains-duplicate-ii](https://github.com/MaheshKhadayat/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MaheshKhadayat/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/MaheshKhadayat/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MaheshKhadayat/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Simulation
 |  |
