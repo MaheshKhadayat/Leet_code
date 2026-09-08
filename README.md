@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MaheshKhadayat/Leet_code/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MaheshKhadayat/Leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3903-smallest-stable-index-i](https://github.com/MaheshKhadayat/Leet_code/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MaheshKhadayat/Leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/MaheshKhadayat/Leet_code/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
