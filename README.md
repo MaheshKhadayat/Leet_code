@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/MaheshKhadayat/Leet_code/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MaheshKhadayat/Leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MaheshKhadayat/Leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/MaheshKhadayat/Leet_code/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MaheshKhadayat/Leet_code/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/MaheshKhadayat/Leet_code/tree/master/0013-roman-to-integer) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MaheshKhadayat/Leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MaheshKhadayat/Leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/MaheshKhadayat/Leet_code/tree/master/3870-count-commas-in-range) |
 ## Dynamic Programming
