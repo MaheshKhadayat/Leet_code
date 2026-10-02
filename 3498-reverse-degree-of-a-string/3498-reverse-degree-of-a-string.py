@@ -7,9 +7,7 @@ class Solution(object):
         ans = 0
 
         for i,ch in enumerate(s):
-            rev = ord('z') - ord(ch) + 1 
-    
-
-            ans += rev*(i+1)
+            
+            ans += (ord('z') - ord(ch) + 1) *(i+1)
         return ans
         
