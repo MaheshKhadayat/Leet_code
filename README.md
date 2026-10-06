@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MaheshKhadayat/Leet_code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MaheshKhadayat/Leet_code/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/MaheshKhadayat/Leet_code/tree/master/0217-contains-duplicate) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/MaheshKhadayat/Leet_code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/MaheshKhadayat/Leet_code/tree/master/0217-contains-duplicate) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MaheshKhadayat/Leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MaheshKhadayat/Leet_code/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/MaheshKhadayat/Leet_code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MaheshKhadayat/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MaheshKhadayat/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MaheshKhadayat/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MaheshKhadayat/Leet_code/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/MaheshKhadayat/Leet_code/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MaheshKhadayat/Leet_code/tree/master/0058-length-of-last-word) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MaheshKhadayat/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/MaheshKhadayat/Leet_code/tree/master/3498-reverse-degree-of-a-string) |
