@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MaheshKhadayat/Leet_code/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/MaheshKhadayat/Leet_code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MaheshKhadayat/Leet_code/tree/master/0057-insert-interval) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/MaheshKhadayat/Leet_code/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/MaheshKhadayat/Leet_code/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 ## Greedy
