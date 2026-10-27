@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/MaheshKhadayat/Leet_code/tree/master/0057-insert-interval) |
 | [0217-contains-duplicate](https://github.com/MaheshKhadayat/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MaheshKhadayat/Leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MaheshKhadayat/Leet_code/tree/master/0283-move-zeroes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MaheshKhadayat/Leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/MaheshKhadayat/Leet_code/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/MaheshKhadayat/Leet_code/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/MaheshKhadayat/Leet_code/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/MaheshKhadayat/Leet_code/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MaheshKhadayat/Leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MaheshKhadayat/Leet_code/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -47,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MaheshKhadayat/Leet_code/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MaheshKhadayat/Leet_code/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/MaheshKhadayat/Leet_code/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MaheshKhadayat/Leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 ## Quicksort
@@ -82,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/MaheshKhadayat/Leet_code/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/MaheshKhadayat/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MaheshKhadayat/Leet_code/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MaheshKhadayat/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
@@ -109,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/MaheshKhadayat/Leet_code/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
