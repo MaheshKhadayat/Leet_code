@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/MaheshKhadayat/Leet_code/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
+| [2815-max-pair-sum-in-an-array](https://github.com/MaheshKhadayat/Leet_code/tree/master/2815-max-pair-sum-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/MaheshKhadayat/Leet_code/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/MaheshKhadayat/Leet_code/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3903-smallest-stable-index-i](https://github.com/MaheshKhadayat/Leet_code/tree/master/3903-smallest-stable-index-i) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MaheshKhadayat/Leet_code/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MaheshKhadayat/Leet_code/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
+| [2815-max-pair-sum-in-an-array](https://github.com/MaheshKhadayat/Leet_code/tree/master/2815-max-pair-sum-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MaheshKhadayat/Leet_code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String
 |  |
