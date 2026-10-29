@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MaheshKhadayat/Leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
 | [0704-binary-search](https://github.com/MaheshKhadayat/Leet_code/tree/master/0704-binary-search) |
+| [0769-max-chunks-to-make-sorted](https://github.com/MaheshKhadayat/Leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 | [0877-stone-game](https://github.com/MaheshKhadayat/Leet_code/tree/master/0877-stone-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/MaheshKhadayat/Leet_code/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2815-max-pair-sum-in-an-array](https://github.com/MaheshKhadayat/Leet_code/tree/master/2815-max-pair-sum-in-an-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MaheshKhadayat/Leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
+| [0769-max-chunks-to-make-sorted](https://github.com/MaheshKhadayat/Leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 ## Quicksort
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/MaheshKhadayat/Leet_code/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/MaheshKhadayat/Leet_code/tree/master/0455-assign-cookies) |
+| [0769-max-chunks-to-make-sorted](https://github.com/MaheshKhadayat/Leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/MaheshKhadayat/Leet_code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MaheshKhadayat/Leet_code/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/MaheshKhadayat/Leet_code/tree/master/0769-max-chunks-to-make-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/MaheshKhadayat/Leet_code/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
